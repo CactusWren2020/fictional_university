@@ -56,7 +56,7 @@ add_action('rest_api_init', 'university_custom_rest');
         wp_enqueue_style('font-awesome', '//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
         wp_enqueue_style('custom-google-fonts', '//fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i|Roboto:100,300,400,400i,700,700i');
         // wp_enqueue_script('main-university-js', 'http://localhost:3000/bundled.js', NULL, '1.0', true);
-        wp_enqueue_script('google_map', '//maps.googleapis.com/maps/api/js?key=AIzaSyAE3Z4nTdOD8DTpjOmc1UTNGRrKdQ_LHEU', NULL, '1.0', true);
+        wp_enqueue_script('google_map', '//maps.googleapis.com/maps/api/js?key=keyhere', NULL, '1.0', true);
 
         if ( strstr($_SERVER['SERVER_NAME'], '127.0.0.1')) {
             wp_enqueue_script('main-university-js', 'http://localhost:3000/bundled.js', NULL, '1.0', true);
