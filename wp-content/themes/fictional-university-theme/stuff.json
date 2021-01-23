@@ -1,0 +1,446 @@
+[
+  {
+    "id": 61,
+    "date": "2020-12-26T18:26:10",
+    "date_gmt": "2020-12-26T18:26:10",
+    "guid": { "rendered": "http://127.0.0.1/fictional_university/?p=61" },
+    "modified": "2020-12-29T20:27:08",
+    "modified_gmt": "2020-12-29T20:27:08",
+    "slug": "jupiter",
+    "status": "publish",
+    "type": "post",
+    "link": "http://127.0.0.1/fictional_university/2020/12/26/jupiter/",
+    "title": { "rendered": "Jupiter" },
+    "content": {
+      "rendered": "\n<p>Jupiter is a dog.</p>\n\n\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ex diam, ultrices ut neque pellentesque, efficitur efficitur lectus. Suspendisse pellentesque volutpat nibh. Donec consequat ante a urna dictum sagittis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur id ipsum vel nunc fermentum laoreet sed a urna. Nunc gravida placerat purus non porta. Aenean placerat ullamcorper arcu at ullamcorper. Sed sit amet hendrerit metus. Donec at metus tincidunt, dictum tellus sed, hendrerit nunc. Vivamus porttitor felis leo, sit amet euismod risus vehicula sit amet. Ut venenatis massa eu pharetra imperdiet. Fusce tempor ultrices felis sed imperdiet.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Jupiter, the very best boy of them all.</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [6],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts/61"
+        }
+      ],
+      "collection": [
+        { "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        {
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/comments?post=61"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts/61/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 71,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts/61/revisions/71"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/media?parent=61"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/categories?post=61"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/tags?post=61"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "date": "2020-12-26T16:57:08",
+    "date_gmt": "2020-12-26T16:57:08",
+    "guid": { "rendered": "http://127.0.0.1/fictional_university/?p=59" },
+    "modified": "2020-12-26T20:44:44",
+    "modified_gmt": "2020-12-26T20:44:44",
+    "slug": "we-win-everything",
+    "status": "publish",
+    "type": "post",
+    "link": "http://127.0.0.1/fictional_university/2020/12/26/we-win-everything/",
+    "title": { "rendered": "We Win Everything" },
+    "content": {
+      "rendered": "\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ex diam, ultrices ut neque pellentesque, efficitur efficitur lectus. Suspendisse pellentesque volutpat nibh. Donec consequat ante a urna dictum sagittis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur id ipsum vel nunc fermentum laoreet sed a urna. Nunc gravida placerat purus non porta. Aenean placerat ullamcorper arcu at ullamcorper. Sed sit amet hendrerit metus. Donec at metus tincidunt, dictum tellus sed, hendrerit nunc. Vivamus porttitor felis leo, sit amet euismod risus vehicula sit amet. Ut venenatis massa eu pharetra imperdiet. Fusce tempor ultrices felis sed imperdiet.</p>\n\n\n\n<p>Proin tellus mauris, suscipit non finibus et, dictum scelerisque metus. Praesent porttitor nisi eget ligula lobortis, in pulvinar augue dapibus. Sed in sem sollicitudin, ultricies nibh vel, venenatis turpis. Ut condimentum congue enim, ac porta nisi volutpat ac. Sed a eleifend ex. Mauris non sapien ultricies, malesuada est eu, posuere urna. Donec eu sollicitudin diam. Vestibulum varius lorem ac tincidunt feugiat. Duis ac diam eget lorem semper fringilla. Cras nec suscipit ex. Quisque pulvinar elit vel nunc fermentum dictum. Vivamus a sollicitudin sem. Nam vitae vehicula justo. Duis libero augue, dignissim vel velit vel, imperdiet consequat sem. Curabitur nec massa quis mi scelerisque semper. Nunc augue leo, varius quis congue ut, pretium ac quam.</p>\n\n\n\n<p>Maecenas eleifend non elit vitae semper. Etiam gravida posuere enim, ac ullamcorper erat mollis a. Morbi imperdiet eget orci at varius. Proin et molestie dolor. Nulla facilisi. Suspendisse nec congue ante. Curabitur lobortis dapibus elit, eget interdum ipsum finibus ut. In vitae orci nec lorem consequat volutpat a non nisl. Sed finibus urna eu gravida tincidunt. Integer consectetur nisl et erat vestibulum lacinia.</p>\n\n\n\n<p>Mauris elementum bibendum turpis sed blandit. In mollis at tellus non faucibus. Morbi rhoncus arcu ut urna fringilla, id posuere eros porttitor. Maecenas ornare nisl turpis, nec varius leo placerat eu. Maecenas scelerisque, ex sit amet convallis aliquam, velit diam dictum est, placerat ultricies leo nisi non justo. Etiam eleifend ligula vel nisl efficitur, nec vehicula quam tempus. Sed dignissim fermentum libero at luctus.</p>\n\n\n\n<p>Nulla eleifend dapibus pharetra. In tincidunt iaculis sapien, et venenatis est iaculis et. Curabitur fringilla, ex a cursus iaculis, lacus dui facilisis leo, sit amet pulvinar ipsum odio a enim. Sed sed est eget magna sollicitudin iaculis. Praesent id lectus dolor. Nulla dignissim felis est, sit amet lobortis tellus eleifend vel. Sed faucibus blandit quam, a tempus nulla facilisis eget. Nunc aliquam porttitor mi. Etiam vestibulum pellentesque libero nec pulvinar.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ex diam, ultrices ut neque pellentesque, efficitur efficitur lectus. Suspendisse pellentesque volutpat nibh. Donec consequat ante a urna dictum sagittis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur id ipsum vel nunc fermentum laoreet sed a urna. Nunc gravida placerat [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [5],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts/59"
+        }
+      ],
+      "collection": [
+        { "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        {
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/comments?post=59"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts/59/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 63,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts/59/revisions/63"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/media?parent=59"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/categories?post=59"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/tags?post=59"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "date": "2020-12-24T22:33:58",
+    "date_gmt": "2020-12-24T22:33:58",
+    "guid": { "rendered": "http://127.0.0.1/fictional_university/?p=8" },
+    "modified": "2020-12-24T22:33:58",
+    "modified_gmt": "2020-12-24T22:33:58",
+    "slug": "test-post-2",
+    "status": "publish",
+    "type": "post",
+    "link": "http://127.0.0.1/fictional_university/2020/12/24/test-post-2/",
+    "title": { "rendered": "Test Post 2" },
+    "content": {
+      "rendered": "\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet orci in velit viverra vehicula. Nullam efficitur augue nec posuere pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean diam libero, aliquam quis risus et, aliquet vulputate massa. Praesent auctor vitae enim at condimentum. Nunc non sodales libero. Aliquam condimentum enim ut mi eleifend, at pretium enim auctor. Aliquam varius, libero a sagittis euismod, augue turpis sagittis nibh, eu pretium risus dui in arcu. Curabitur pharetra felis sed suscipit sollicitudin.</p>\n\n\n\n<p>Suspendisse nec laoreet arcu. Vestibulum scelerisque, augue at fermentum fringilla, nisl est cursus neque, eget dapibus nisl ipsum id augue. Nunc in magna et risus ultrices egestas. Quisque id tincidunt lorem. Vestibulum efficitur rutrum neque non scelerisque. Sed molestie nibh hendrerit sem volutpat vehicula. Duis pellentesque odio quis nibh congue, et ullamcorper leo luctus.</p>\n\n\n\n<p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque malesuada, risus sit amet lobortis feugiat, felis nibh vehicula orci, eu laoreet ligula neque ac ex. In vel elit et velit tincidunt iaculis. Nullam condimentum risus id ipsum venenatis, nec ultrices elit placerat. Quisque neque lectus, maximus ut pretium et, viverra ac eros. Proin dolor lacus, lobortis at libero non, euismod vestibulum sapien. Cras eget arcu lacus. Vestibulum eget tincidunt orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam scelerisque enim in iaculis ornare.</p>\n\n\n\n<p>Sed in blandit erat, bibendum tempus neque. Sed vel neque urna. Nunc auctor ex nibh, sit amet mattis dui accumsan imperdiet. Nunc dapibus placerat faucibus. Fusce in eleifend odio. Sed lacinia sem nisi, eu pretium est commodo in. Aenean elementum dui eu eros cursus, quis bibendum lorem faucibus. Ut auctor euismod ipsum. Integer finibus, est id consectetur malesuada, odio lorem scelerisque arcu, vel viverra ligula libero sed magna. Curabitur lacinia nulla id nulla lacinia aliquet. Maecenas id ornare magna. Mauris rhoncus suscipit est, mattis varius turpis consectetur auctor. Proin accumsan augue sit amet magna varius, ut semper arcu consequat. Curabitur faucibus tortor felis, quis eleifend magna finibus sed. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>\n\n\n\n<p>Curabitur gravida iaculis diam, ullamcorper tempor metus cursus non. Suspendisse porta mi nec est luctus sagittis. Donec rutrum vel orci quis vestibulum. In bibendum lorem non felis semper, nec euismod tellus efficitur. Sed et tellus in nulla tempus tincidunt. Mauris laoreet, elit non mollis ullamcorper, urna magna interdum felis, at commodo enim magna nec purus. Mauris vitae sollicitudin neque, a laoreet leo. Nunc bibendum ex eget turpis ultrices molestie a nec nisi. Donec non leo tempor, finibus arcu vel, tempor metus. Ut bibendum metus at est imperdiet, a efficitur lectus interdum.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet orci in velit viverra vehicula. Nullam efficitur augue nec posuere pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean diam libero, aliquam quis risus et, aliquet vulputate massa. Praesent auctor vitae enim at condimentum. Nunc non sodales libero. Aliquam condimentum enim ut mi [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [1],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts/8"
+        }
+      ],
+      "collection": [
+        { "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        {
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/comments?post=8"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts/8/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 9,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts/8/revisions/9"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/media?parent=8"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/categories?post=8"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/tags?post=8"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "date": "2020-12-24T22:33:39",
+    "date_gmt": "2020-12-24T22:33:39",
+    "guid": { "rendered": "http://127.0.0.1/fictional_university/?p=6" },
+    "modified": "2020-12-24T22:33:39",
+    "modified_gmt": "2020-12-24T22:33:39",
+    "slug": "test-post",
+    "status": "publish",
+    "type": "post",
+    "link": "http://127.0.0.1/fictional_university/2020/12/24/test-post/",
+    "title": { "rendered": "Test Post" },
+    "content": {
+      "rendered": "\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet orci in velit viverra vehicula. Nullam efficitur augue nec posuere pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean diam libero, aliquam quis risus et, aliquet vulputate massa. Praesent auctor vitae enim at condimentum. Nunc non sodales libero. Aliquam condimentum enim ut mi eleifend, at pretium enim auctor. Aliquam varius, libero a sagittis euismod, augue turpis sagittis nibh, eu pretium risus dui in arcu. Curabitur pharetra felis sed suscipit sollicitudin.</p>\n\n\n\n<p>Suspendisse nec laoreet arcu. Vestibulum scelerisque, augue at fermentum fringilla, nisl est cursus neque, eget dapibus nisl ipsum id augue. Nunc in magna et risus ultrices egestas. Quisque id tincidunt lorem. Vestibulum efficitur rutrum neque non scelerisque. Sed molestie nibh hendrerit sem volutpat vehicula. Duis pellentesque odio quis nibh congue, et ullamcorper leo luctus.</p>\n\n\n\n<p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque malesuada, risus sit amet lobortis feugiat, felis nibh vehicula orci, eu laoreet ligula neque ac ex. In vel elit et velit tincidunt iaculis. Nullam condimentum risus id ipsum venenatis, nec ultrices elit placerat. Quisque neque lectus, maximus ut pretium et, viverra ac eros. Proin dolor lacus, lobortis at libero non, euismod vestibulum sapien. Cras eget arcu lacus. Vestibulum eget tincidunt orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam scelerisque enim in iaculis ornare.</p>\n\n\n\n<p>Sed in blandit erat, bibendum tempus neque. Sed vel neque urna. Nunc auctor ex nibh, sit amet mattis dui accumsan imperdiet. Nunc dapibus placerat faucibus. Fusce in eleifend odio. Sed lacinia sem nisi, eu pretium est commodo in. Aenean elementum dui eu eros cursus, quis bibendum lorem faucibus. Ut auctor euismod ipsum. Integer finibus, est id consectetur malesuada, odio lorem scelerisque arcu, vel viverra ligula libero sed magna. Curabitur lacinia nulla id nulla lacinia aliquet. Maecenas id ornare magna. Mauris rhoncus suscipit est, mattis varius turpis consectetur auctor. Proin accumsan augue sit amet magna varius, ut semper arcu consequat. Curabitur faucibus tortor felis, quis eleifend magna finibus sed. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>\n\n\n\n<p>Curabitur gravida iaculis diam, ullamcorper tempor metus cursus non. Suspendisse porta mi nec est luctus sagittis. Donec rutrum vel orci quis vestibulum. In bibendum lorem non felis semper, nec euismod tellus efficitur. Sed et tellus in nulla tempus tincidunt. Mauris laoreet, elit non mollis ullamcorper, urna magna interdum felis, at commodo enim magna nec purus. Mauris vitae sollicitudin neque, a laoreet leo. Nunc bibendum ex eget turpis ultrices molestie a nec nisi. Donec non leo tempor, finibus arcu vel, tempor metus. Ut bibendum metus at est imperdiet, a efficitur lectus interdum.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet orci in velit viverra vehicula. Nullam efficitur augue nec posuere pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean diam libero, aliquam quis risus et, aliquet vulputate massa. Praesent auctor vitae enim at condimentum. Nunc non sodales libero. Aliquam condimentum enim ut mi [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [1],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts/6"
+        }
+      ],
+      "collection": [
+        { "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        {
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/comments?post=6"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts/6/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 7,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts/6/revisions/7"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/media?parent=6"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/categories?post=6"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/tags?post=6"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "date": "2020-12-24T21:55:52",
+    "date_gmt": "2020-12-24T21:55:52",
+    "guid": { "rendered": "http://127.0.0.1/fictional_university/?p=1" },
+    "modified": "2020-12-24T21:55:52",
+    "modified_gmt": "2020-12-24T21:55:52",
+    "slug": "hello-world",
+    "status": "publish",
+    "type": "post",
+    "link": "http://127.0.0.1/fictional_university/2020/12/24/hello-world/",
+    "title": { "rendered": "Hello world!" },
+    "content": {
+      "rendered": "\n<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [1],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts/1"
+        }
+      ],
+      "collection": [
+        { "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        {
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/comments?post=1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/posts/1/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/media?parent=1"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/categories?post=1"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://127.0.0.1/fictional_university/wp-json/wp/v2/tags?post=1"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  }
+]

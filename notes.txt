@@ -1,0 +1,12 @@
+<?php 
+        if (is_category()) {
+            // global $post;
+            // $post_id = $post->ID;
+            // echo 'Category: ' . get_the_category($post_id)[0]->name;
+            single_cat_title();
+        }
+        if (is_author()) {
+            echo 'Author: ' . the_author();
+            // get_the_author();
+        } 
+        ?>
